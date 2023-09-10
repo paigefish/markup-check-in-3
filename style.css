@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Gill Sans", sans-serif;
+}
+ul {
+    font-style: italic;
+    font-weight: lighter;
+    line-height: 3em;
+
+}
+.number {
+    color: red;
+    text-indent: 30%;
+}

@@ -2,18 +2,53 @@ h1 {
     color: red;
     font-size: xxx-large;
     text-align: center;
+    text-decoration: purple wavy underline;
 }
 
 h2 {
     font-family: "Gill Sans", sans-serif;
 }
+
 ul {
     font-style: italic;
     font-weight: lighter;
     line-height: 3em;
 
 }
-.number {
-    color: red;
-    text-indent: 30%;
+
+p {
+    background-color: blue;
+    color: white;
+}
+
+ul {
+    list-style-type: "\1F44D";
+}
+
+h3 {
+    text-decoration: dashed underline overline;
+}
+
+.education{
+    background-color: yellow;
+}
+
+.relevant-experience{
+    color: green; 
+}
+
+.other-experience{
+    text-decoration: underline dotted;
+    color:aquamarine;
+}
+
+.software-skills{
+    font-weight: 100;
+    text-decoration: underline dashed;
+
+}
+
+.activities{
+    font-family: cursive;
+    background-color: rgb(255, 111, 0);
 }
